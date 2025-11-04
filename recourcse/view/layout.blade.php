@@ -4,6 +4,9 @@
     <title>@yield"/title"</title>
 </head>
 <body>
+    <nav>
+        
+    </nav>
     
 </body>
 </html>
